@@ -9,7 +9,7 @@ Here are some facts about me:
 - 🤔 I’m looking for new opportunities to work on Javascript and React based projects.
 - 💬 Ask me about programming and coding related problems -> tufahel96@gmail.com.
 - 📫 Reach me through my [Linkedin](https://www.linkedin.com/in/tufahel-ahmed-972884203/).
-- 😄 Pronouns: ['He' 'Him']
+- 😄 Pronouns: ["He", "Him"]
 - ⚡ Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/tufahel)
 
 **Languages and Tools:**  
