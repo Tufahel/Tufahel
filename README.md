@@ -31,6 +31,6 @@ Here are some facts about me:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufahel&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/tufahel/tufahel.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufahel&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufahel&repo=tufahel.github.io&theme=buefy" />
 </a>
 
