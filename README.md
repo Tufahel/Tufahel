@@ -26,7 +26,6 @@ Here are some facts about me:
 
 #### Top Repositories
 
-
 <a href="https://github.com/tufahel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tufahel&repo=github-readme-stats&theme=buefy" />
 </a>
