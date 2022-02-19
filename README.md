@@ -2,7 +2,7 @@
 
 - I am Tufahel Ahmed.
 
-Here are some ideas to get you started:
+Here are some facts about me:
 
 - 🔭 I’m currently working on Javascript Projects on ![](https://img.shields.io/badge/Microverse-blueviolet).
 - 🌱 I’m currently learning Javascript, React-Redux and Ruby on Rails.
