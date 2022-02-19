@@ -22,5 +22,10 @@ Here are some facts about me:
 | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tufahel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tufahel's github stats" /></a> | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufahel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br />
+<br />
 
+<a href="https://twitter.com/TufahelAhmed">
+  <img align="right" alt="Tufahel Ahmed | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
