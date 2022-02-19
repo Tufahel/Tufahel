@@ -5,8 +5,8 @@
 Here are some facts about me:
 
 - 🔭 I’m currently working on Javascript Projects on ![](https://img.shields.io/badge/Microverse-blueviolet).
-- 🌱 I’m currently learning Javascript, React-Redux and Ruby on Rails.
-- 🤔 I’m looking for new opportunities to work on Javascript and React based projects.
+- 🌱 I’m currently learning JavaScript, React-Redux and Ruby on Rails.
+- 🤔 I’m looking for new opportunities to work on JavaScript and React based projects.
 - 💬 Ask me about programming and coding related problems -> tufahel96@gmail.com.
 - 📫 Reach me through my [Linkedin](https://www.linkedin.com/in/tufahel-ahmed-972884203/).
 - 😄 Pronouns: ["He", "Him"].
