@@ -1,8 +1,8 @@
 ### Hi there 👋 I am ![](https://img.shields.io/badge/Tufahel-blue?style=for-the-badge).
 
 - 🔭 I’m currently working on Full Stack Development in ![](https://img.shields.io/badge/Microverse-blueviolet).
-- 🌱 I’m currently learning Database and Ruby on Rails.
-- 🤔 I’m looking for new opportunities to work on JavaScript and React/Redux based projects.
+- 🌱 Currently learning Database and Ruby on Rails.
+- 🤔 Looking for new opportunities to work on JavaScript and React/Redux based projects.
 - 💬 Ask me about programming and coding related problems: tufahel96@gmail.com.
 - 📫 Reach me through my [Linkedin](https://www.linkedin.com/in/tufahel-ahmed-972884203/).
 - ⚡ Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/tufahel).
