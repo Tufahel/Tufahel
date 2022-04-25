@@ -1,4 +1,4 @@
-### Hi there 👋 I am ![#f03c15](Tufahel Ahmed).
+### Hi there 👋 I am ![#f03c15]Tufahel Ahmed.
 
 Here are some facts about me:
 
