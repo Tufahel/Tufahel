@@ -1,4 +1,4 @@
-### Hi there 👋 I am ![](https://img.shields.io/badge/Tufahel Ahmed-blueviolet).
+### Hi there 👋 I am ![](https://img.shields.io/badge/Tufahel-blueviolet).
 
 Here are some facts about me:
 
