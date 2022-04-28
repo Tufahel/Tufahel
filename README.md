@@ -1,12 +1,11 @@
-### Hi there 👋 I am ![](https://img.shields.io/badge/Tufahel-blue?style=for-the-badge).
+### Hi there 👋 I am TUFAHEL AHMED.
 
-- 🔭 I’m currently working on Full Stack Development in ![](https://img.shields.io/badge/Microverse-blueviolet).
+- 🔭 I’m currently working on Full Stack Development projects in ![](https://img.shields.io/badge/Microverse-blueviolet).
 - 🌱 Currently learning Database and Ruby on Rails.
 - 🤔 Looking for new opportunities to work on JavaScript and React/Redux based projects.
-- 💬 Ask me about programming and coding related problems: <a href="tufahel96@gmail.com">
-  <img alt="Tufahel Ahmed | Linkedin" height="30" src="https://i.ibb.co/1XGSwg7/gmail.png" /> </a>
+- 💬 Ask me about programming and coding related problems at gmail: tufahel96@gmail.com.
 - 📫 Reach me through my Linkedin: <a href="https://www.linkedin.com/in/tufahel-ahmed/">
-  <img alt="Tufahel Ahmed | Linkedin" height="30" src="https://i.ibb.co/JqX6dnP/linkedin.png" /> </a>
+  <img alt="Tufahel Ahmed | Linkedin" height="30" src="https://i.ibb.co/JqX6dnP/linkedin.png" /> </a>.
 - ⚡ Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/tufahel).
 
 **Languages and Tools:**  
