@@ -10,15 +10,15 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://i.ibb.co/8DJTkxK/js.png"></code>
-<code><img height="30" src="https://i.ibb.co/bHQmFGb/react.png"></code>
-<code><img height="30" src="https://i.ibb.co/YLrHwbd/html-5.png"></code>
-<code><img height="30" src="https://i.ibb.co/6nXdHd2/css-3.png"></code>
-<code><img height="30" src="https://i.ibb.co/VxkjV4G/letter-c.png"></code>
-<code><img height="30" src="https://i.ibb.co/s1gKmM1/c.png"></code>
-<code><img height="30" src="https://i.ibb.co/PCjxYSX/visual-studio.png"></code>
-<code><img height="30" src="https://i.ibb.co/CwQw968/linux.png"></code>
-<code><img height="30" src="https://i.ibb.co/Sr0mdmj/windows.png"></code>
+<code><img height="25" src="https://i.ibb.co/8DJTkxK/js.png"></code>
+<code><img height="25" src="https://i.ibb.co/bHQmFGb/react.png"></code>
+<code><img height="25" src="https://i.ibb.co/YLrHwbd/html-5.png"></code>
+<code><img height="25" src="https://i.ibb.co/6nXdHd2/css-3.png"></code>
+<code><img height="25" src="https://i.ibb.co/VxkjV4G/letter-c.png"></code>
+<code><img height="25" src="https://i.ibb.co/s1gKmM1/c.png"></code>
+<code><img height="25" src="https://i.ibb.co/PCjxYSX/visual-studio.png"></code>
+<code><img height="25" src="https://i.ibb.co/CwQw968/linux.png"></code>
+<code><img height="25" src="https://i.ibb.co/Sr0mdmj/windows.png"></code>
 
 | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tufahel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tufahel's github stats" /></a> | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufahel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
