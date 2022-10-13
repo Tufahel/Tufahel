@@ -17,7 +17,7 @@
 
 <p align='left'> 📫 Always keen to solve real-life problems using my coding ability. As a Software Developer, I enjoy making websites, whether Full-Stack, Back-End, or Front-End. Practice clean code and follow best practices for the stack I work on. Competitive Programming is one of my passion, and I love to do it to sharpen my problem-solving skill. </p>
 
-**Skills and Tools:**  🛠️<br>
+💻 **Skills and Tools:**  🛠️<br>
 
 *Coding and Hosting Platform:*
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -48,6 +48,11 @@
 *OS Skills:*
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=white&labelColor=orange)
+
+🤓 **Interested:** <br>
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
 
 | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tufahel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tufahel's github stats" /></a> | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufahel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
