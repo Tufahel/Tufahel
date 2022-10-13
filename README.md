@@ -1,21 +1,8 @@
-
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Tufahel?label=Follow%20Me&style=social)](https://github.com/Tufahel)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Tufahel%20Ahmed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tufahel-ahmed/)
-[![Mail](https://img.shields.io/badge/Gmail-tufahel96@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:tufahel96@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-TufahelAhmed-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/TufahelAhmed)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-tufahel96-yellow?logo=LeetCode&logoColor=white&labelColor=black)](https://leetcode.com/tufahel96/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-tufahel_ahmed-blue?logo=Codeforces&logoColor=white&labelColor=black)](http://www.codeforces.com/profile/tufahel_ahmed)
-[![UVa](https://img.shields.io/badge/UVa-Tufahel_Ahmed-red?logo=UVa&logoColor=white&labelColor=black)](https://uhunt.onlinejudge.org/id/909308)
-
-
 <h2 align='center'><samp><strong>Hi there 👋, I am Tufahel Ahmed</strong></samp></h2>
 <h3 align='center'><strong><a href="https://tufahel.github.io/portfolio-desktop-version/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software Developer | Full-Stack Developer | RoR/React Developer | Web Developer | Competetive Programmer</p>
 
-<p align='left'> 📫 Always keen to solve real-life problems using my coding ability. As a Software Developer, I enjoy making websites, whether Full-Stack, Back-End, or Front-End. Practice clean code and follow best practices for the stack I work on. Competitive Programming is one of my passion, and I love to do it to sharpen my problem-solving skill. </p>
+<p align='left'> 📫 Always keen to solve real-life problems using my coding ability. As a Software Developer, I enjoy making websites, whether Full-Stack, Back-End, or Front-End. Practice clean code and follow best practices for the stacks I work on. Competitive Programming is one of my passion, and I love to do it to sharpen my problem-solving skill. </p>
 
 💻 **Skills and Tools:**  🛠️<br>
 
@@ -57,3 +44,13 @@
 | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tufahel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tufahel's github stats" /></a> | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufahel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Tufahel?label=Follow%20Me&style=social)](https://github.com/Tufahel)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Tufahel%20Ahmed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tufahel-ahmed/)
+[![Mail](https://img.shields.io/badge/Gmail-tufahel96@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:tufahel96@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-TufahelAhmed-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/TufahelAhmed)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-tufahel96-yellow?logo=LeetCode&logoColor=white&labelColor=black)](https://leetcode.com/tufahel96/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tufahel_ahmed-blue?logo=Codeforces&logoColor=white&labelColor=black)](http://www.codeforces.com/profile/tufahel_ahmed)
+[![UVa](https://img.shields.io/badge/UVa-Tufahel_Ahmed-red?logo=UVa&logoColor=white&labelColor=black)](https://uhunt.onlinejudge.org/id/909308)
