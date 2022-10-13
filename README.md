@@ -39,7 +39,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 
-*Backed Skills:*
+*Back-End Skills:*
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red&labelColor=white)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
