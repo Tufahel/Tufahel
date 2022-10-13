@@ -43,7 +43,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red&labelColor=white)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![Swagger](https://img.shields.io/badge/-RSwagger-000000?style=flat&logo=swagger&logoColor=green&labelColor=white)
 
 *OS Skills:*
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
