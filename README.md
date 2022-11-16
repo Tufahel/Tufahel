@@ -38,6 +38,7 @@
 
 🤓 **Interested:** <br>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
 
