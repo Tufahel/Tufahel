@@ -6,13 +6,6 @@
 
 💻 **Skills and Tools:**  🛠️<br>
 
-*Coding and Hosting Platform:*
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=blue&labelColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=white&labelColor=violet)
-
 *Front-End Skills:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -31,6 +24,13 @@
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Swagger](https://img.shields.io/badge/-RSwagger-000000?style=flat&logo=swagger&logoColor=green&labelColor=white)
+
+*Coding and Hosting Platform:*
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=blue&labelColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=white&labelColor=violet)
 
 *OS Skills:*
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
