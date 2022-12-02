@@ -40,7 +40,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby_On_Rails-000000?style=flat&logo=rubyonrails&logoColor=red&labelColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 
 | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tufahel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tufahel's github stats" /></a> | <a href="https://github.com/tufahel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tufahel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
