@@ -2,7 +2,7 @@
 <h3 align='center'><strong><a href="https://tufahel.github.io/portfolio-desktop-version/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software Developer | Full-Stack Developer | RoR/React Developer | Web Developer | Competetive Programmer</p>
 
-<p align='left'> 📫 Always keen to solve real-life problems using my coding ability. As a Software Developer, I enjoy making websites, whether Full-Stack, Back-End, or Front-End. Practice clean code and follow best practices for the stacks I work on. Competitive Programming is one of my passion, and I love to do it to sharpen my problem-solving skill and thinking capability. </p>
+<p align='left'> 📫 Always keen to solve real-life problems using my coding ability. As a Software Developer, I enjoy making websites, whether Full-Stack, Back-End, or Front-End. Practice clean code and follow best practices for the stacks I work on. Competitive Programming is one of my passions, and I love to do it to sharpen my problem-solving skills and thinking capability. </p>
 
 💻 **Skills and Tools:**  🛠️<br>
 
